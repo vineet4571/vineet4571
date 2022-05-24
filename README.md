@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vineet Chaudhary 👋
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vineet4571.visitor-badge)](https://github.com/vineet4571)
 ![profile count](https://komarev.com/ghpvc/?username=vineet4571&color=green)&nbsp;
 
