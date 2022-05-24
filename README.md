@@ -31,13 +31,12 @@ Here are some ideas to get you started:
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<a href="https://github.com/vineet4571">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vineet4571&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vineet4571&layout=compact&langs_count=10&theme=tokyonight"/>
-</a>
-</p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet4571&" alt="vineet4571" /></p>
+![Metrics](https://metrics.lecoq.io/vineet4571?template=classic&repositories.forks=true&base.header=0&lines=1&config.timezone=Asia%2FCalcutta)
 
+<a href="https://github.com/vineet4571">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vineet4571&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="vineet's github stats" />
+</a>
+<a href="https://github.com/vineet4571">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet4571&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
+</a>
 
