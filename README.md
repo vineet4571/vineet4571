@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vineet4571&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="vineet's github stats" />
 </a>
 <a href="https://github.com/vineet4571">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet4571&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet4571&layout=compact&count_private=true&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=radical" />
 </a>
 
